@@ -48,17 +48,23 @@ Potencia del motor (HP): 20
 Voltaje (230 o 460): 460
 
 📊 RESULTADOS:
+
    Corriente a plena carga (FLC): 27.0 A
    Conductor mínimo (125% de FLC): 10 AWG
 
 Tipo de protección (breaker/fusible_dual/fusible_normal) [breaker]: breaker
+   
    Protección máxima recomendada: 70 A
 
 ¿Estimar corriente de arranque (LRA)? (s/n) [s]: s
+
 Código NEMA del motor (B,C,D,E,F,G,H,J) [G]: B
+
    Corriente de arranque estimada (LRA): 94 A
 
+  
    📚 Aprendizajes y contexto
+   
 Este proyecto surgió durante mi preparación para procesos de selección en el área de ingeniería electromecánica. Me enfrenté a la necesidad de realizar cálculos repetitivos según normativa, y decidí automatizarlos con Python. Este desafío me permitió:
 
 Profundizar en la normativa NEC aplicada a motores.
@@ -70,9 +76,11 @@ Aprender a usar Git y GitHub para compartir y versionar código.
 Desarrollar una herramienta práctica que puede ser útil para otros profesionales.
 
 🤝 Contribuciones
+
 Las sugerencias y mejoras son bienvenidas. Si encuentras algún error o tienes una idea para ampliar la funcionalidad, no dudes en abrir un issue o enviar un pull request.
 
 📬 Contacto
+
 Ing. Miguel Cárdenas
 
 LinkedIn: https://www.linkedin.com/in/miguel-angel-cardenas-alonso-5b9b59248/
