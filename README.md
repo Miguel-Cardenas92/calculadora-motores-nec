@@ -42,9 +42,8 @@ python3 calculadora_motores_nec_version3.py
 
 4. Sigue las instrucciones en pantalla: ingresa la potencia en HP, el voltaje (230 o 460) y, si lo deseas, el código NEMA para estimar la corriente de arranque.
 
-============================================================
+
 CALCULADORA DE MOTORES SEGÚN NEC - Ing. Miguel Cárdenas
-============================================================
 Potencia del motor (HP): 20
 Voltaje (230 o 460): 460
 
