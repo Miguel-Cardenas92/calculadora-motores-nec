@@ -44,10 +44,10 @@ python3 calculadora_motores_nec_version3.py
 
 
 CALCULADORA DE MOTORES SEGÚN NEC - Ing. Miguel Cárdenas
-Potencia del motor (HP): 20
-Voltaje (230 o 460): 460
 
-📊 RESULTADOS:
+Potencia del motor (HP): 20
+
+Voltaje (230 o 460): 460
 
    Corriente a plena carga (FLC): 27.0 A
    Conductor mínimo (125% de FLC): 10 AWG
@@ -63,7 +63,7 @@ Código NEMA del motor (B,C,D,E,F,G,H,J) [G]: B
    Corriente de arranque estimada (LRA): 94 A
 
   
-   📚 Aprendizajes y contexto
+ ## 📚 Aprendizajes y contexto
    
 Este proyecto surgió durante mi preparación para procesos de selección en el área de ingeniería electromecánica. Me enfrenté a la necesidad de realizar cálculos repetitivos según normativa, y decidí automatizarlos con Python. Este desafío me permitió:
 
@@ -75,11 +75,11 @@ Aprender a usar Git y GitHub para compartir y versionar código.
 
 Desarrollar una herramienta práctica que puede ser útil para otros profesionales.
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 
 Las sugerencias y mejoras son bienvenidas. Si encuentras algún error o tienes una idea para ampliar la funcionalidad, no dudes en abrir un issue o enviar un pull request.
 
-📬 Contacto
+## 📬 Contacto
 
 Ing. Miguel Cárdenas
 
