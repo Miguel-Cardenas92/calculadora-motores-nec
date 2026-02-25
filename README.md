@@ -25,3 +25,9 @@ Herramienta de línea de comandos desarrollada en Python que automatiza el cálc
 
 - **Python 3** (lenguaje principal)
 - Módulos estándar (sin dependencias externas)
+
+## 📦 Instalación y uso
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/Miguel-Cardenas92/calculadora-motores-nec.git
